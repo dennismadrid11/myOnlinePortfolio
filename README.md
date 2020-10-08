@@ -1,2 +1,0 @@
-# myOnlinePortfolio
-Online portfolio
